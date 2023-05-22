@@ -30,28 +30,28 @@ Here is the glimpse of dashboard.
 
 1. Elite Customer Category:
 
-* 86% of total sales are attributed to the Elite Customer Category, primarily comprising adults who have recently made purchases.
-* This category represents our most valuable customer segment.
+  * 86% of total sales are attributed to the Elite Customer Category, primarily comprising adults who have recently made purchases.
+  * This category represents our most valuable customer segment.
 
 2. Potential Customers:
 
-* Potential Customers consist mostly of married individuals or those with a graduated individuals education level.
-* They exhibit a preference for non-vegetarian items, such as meat and fish, accompanied by wine.
+  * Potential Customers consist mostly of married individuals or those with a graduated individuals education level.
+  * They exhibit a preference for non-vegetarian items, such as meat and fish, accompanied by wine.
 
 3. Online vs. In-store Purchases:
 
-* While we want to increase our online customers visits, customers tend to prefer in-store purchases over online transactions.
-* Consequently, the utilization of online offers by our Elite Customers is relatively low.
+  * While we want to increase our online customers visits, customers tend to prefer in-store purchases over online transactions.
+  * Consequently, the utilization of online offers by our Elite Customers is relatively low.
 
 4. Low Complaint Rate:
 
-* Over the past # years, our superstore has received a relatively low number of customer complaints.
-* This is a positive indicator of customer satisfaction and demonstrates that people prefer purchasing items from our store.
+  * Over the past # years, our superstore has received a relatively low number of customer complaints.
+  * This is a positive indicator of customer satisfaction and demonstrates that people prefer purchasing items from our store.
 
 5. Gold Product Purchases by Married Couples:
 
-* Married couples have consistently shown a strong inclination towards purchasing our Gold Products for the past three years.
-* This demographic segment represents a significant source of revenue, and targeted marketing efforts can be tailored to their preferences and needs.
+  * Married couples have consistently shown a strong inclination towards purchasing our Gold Products for the past three years.
+  * This demographic segment represents a significant source of revenue, and targeted marketing efforts can be tailored to their preferences and needs.
 
 
 ####  Recommendations
@@ -59,28 +59,28 @@ Based on the key observations, the following recommendations can be made to addr
 
 1. Target Elite Customers:
 
-Focus the campaign for the gold membership offer on the Elite Customer Category, which constitutes a significant portion of total sales. Hence by utilizing the predictive model we can target our Elite Customers who are likely to purchase the offer, thereby reducing campaign costs by targeting the most responsive segment.
+  Focus the campaign for the gold membership offer on the Elite Customer Category, which constitutes a significant portion of total sales. Hence by utilizing the predictive model we can target our Elite Customers who are likely to purchase the offer, thereby reducing campaign costs by targeting the most responsive segment.
 
 2. Prioritize Married or Graduated Customers:
 
-Within the Elite Customer Category, prioritize married or graduated individuals as they are more likely to make purchases, according to the data. Allocating a larger portion of the campaign efforts towards contacting this specific customer segment  with appropriate promotions and offerings to maximize their engagement and conversion rates.
+  Within the Elite Customer Category, prioritize married or graduated individuals as they are more likely to make purchases, according to the data. Allocating a larger portion of the campaign efforts towards contacting this specific customer segment  with appropriate promotions and offerings to maximize their engagement and conversion rates.
 
 3. Customize Promotions:
 
-Our focus should be on maintaining and further improving this high level of customer satisfaction by tailoring the offer align with the preferences of potential customers, as identified in the observations. Emphasize the availability of non-vegetarian items, such as meat and fish, and the option to enjoy them with wine, to appeal to the target audience that must be delivered to the customers on time and fresh to built our online presence.
+  Our focus should be on maintaining and further improving this high level of customer satisfaction by tailoring the offer align with the preferences of potential customers, as identified in the observations. Emphasize the availability of non-vegetarian items, such as meat and fish, and the option to enjoy them with wine, to appeal to the target audience that must be delivered to the customers on time and fresh to built our online presence.
 
 4. Encourage Online Purchases:
 
-While store purchases are predominant, explore strategies to incentivize Elite Customers to highlight the convenience and ease of online transactions, ensuring that customers are aware of the benefits and discounts available to them, to increase online purchases and utilize the gold membership offer through the website.
+  While store purchases are predominant, explore strategies to incentivize Elite Customers to highlight the convenience and ease of online transactions, ensuring that customers are aware of the benefits and discounts available to them, to increase online purchases and utilize the gold membership offer through the website.
 
 5. Enhance Gold Product Promotions:
 
-Given that married couples have consistently shown a high propensity for purchasing Gold Products, to cater this category some special offers or exclusive discounts for Gold Products, specifically catering to the preferences and needs of married couples.
+  Given that married couples have consistently shown a high propensity for purchasing Gold Products, to cater this category some special offers or exclusive discounts for Gold Products, specifically catering to the preferences and needs of married couples.
 
 6. Continuously Monitor and Refine:
 
-* Regularly analyze customer data and feedback to refine the predictive model and optimize the targeting of future campaigns.
-* Keep track of customer response rates, conversion rates, and overall campaign effectiveness to make data-driven adjustments and improvements.
+  * Regularly analyze customer data and feedback to refine the predictive model and optimize the targeting of future campaigns.
+  * Keep track of customer response rates, conversion rates, and overall campaign effectiveness to make data-driven adjustments and improvements.
 
 
 By implementing these recommendations, the superstore can effectively reduce campaign costs while targeting the right customers with the gold membership offer. The predictive model will play a crucial role in identifying potential buyers, allowing for a more efficient and targeted campaign approach.
