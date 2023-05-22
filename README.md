@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A superstore is planning for the year-end sale. They want to launch a new offer - gold membership, that gives a 20% discount on all purchases, for only $499 which is $999 on other days. It will be valid only for existing customers and the campaign through phone calls is currently being planned for them. The management feels that the best way to reduce the cost of the campaign is to understand which category customers might purchase the offer.
+The superstore aims to optimize the year-end sale campaign by introducing a new offer, the gold membership, exclusively for existing customers. Priced at $499 instead of $999, the membership provides a 20% discount on all purchases. Identify the customer category most likely to avail the offer through predictive modeling to create a marketing campaingn as well as to minimize campaign costs.
 
 ### Tools Used
 * Excel for Data Cleaning
