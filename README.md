@@ -57,7 +57,7 @@ Here is the glimpse of dashboard.
 ####  Recommendations
 Based on the key observations, the following recommendations can be made to address the problem statement:
 
-!. Target Elite Customers:
+1. Target Elite Customers:
 
 Focus the campaign for the gold membership offer on the Elite Customer Category, which constitutes a significant portion of total sales. Hence by utilizing the predictive model we can target our Elite Customers who are likely to purchase the offer, thereby reducing campaign costs by targeting the most responsive segment.
 
