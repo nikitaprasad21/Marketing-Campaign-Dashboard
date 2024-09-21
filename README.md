@@ -18,9 +18,9 @@ Key observations indicate that Elite Customers—primarily adults who recently m
 
 ## Work Process
 
-1. Cleaned the uncleaned dataset using Excel for Marketing Campaign Analysis. 
+1. Cleaned the uncleaned dataset using **Excel** for Marketing Campaign Analysis. 
 
-2. Performed following tyransformation on data using Power BI 
+2. Performed following transformation on data using **Power BI** 
    * to remove duplicate rows, 
    * to replace  numerical values of responses to text values, 
    * to create new columns using DAX functions for creating calculated columns, measures, and custom tables, 
